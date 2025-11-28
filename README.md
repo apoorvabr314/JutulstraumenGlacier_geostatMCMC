@@ -120,9 +120,20 @@ SGS then:
 
 - Restores realistic roughness not captured by the MCMC stage
 
+<p float="left">
+  <img src="Figures/Diff.jpg" alt="Figure 1" width="99%" />
+</p>
+
+*Figure 3: Difference between LargeScale MCMC Chain and SmallScale SGS Reconstruction (Final Result).*
+
+
 ## Final Result 
 
-(final image here)
+<p float="left">
+  <img src="Figures/Final.jpg" alt="Figure 1" width="48%" />
+</p>
+
+*Figure 4: Final result from Geostatistical MCMC Reconstruction of Jutulstraumen Subglacial Bed Topography.*
 
 ## 🐧 Reproducibility Instructions
 
