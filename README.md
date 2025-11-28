@@ -23,9 +23,9 @@ Jutulstraumen is a major fast-flowing outlet glacier draining into the Fimbul Ic
 Because the glacier funnels ice through a constrained basin, its modeled flow behavior and grounding-line stability depend sensitively on bed geometry. Accurate bed reconstruction is thus essential for realistic ice-flow modeling and understanding regional dynamics.
 
 <p float="left">
-  <img src="Figures/IndexMap.jpg" alt="Figure 1" width="32%" />
-  <img src="Figures/SurfaceType.jpg" alt="Figure 2" width="32%" />
-  <img src="Figures/SurfaceVel.jpg" alt="Figure 3" width="32%" />
+  <img src="Figures/IndexMap.jpg" alt="Figure 1" width="32%" height="200px" />
+  <img src="Figures/SurfaceType.jpg" alt="Figure 2" width="32%" height="200px" />
+  <img src="Figures/SurfaceVel.jpg" alt="Figure 3" width="32%" height="200px" />
 </p>
 
 *Figure 1: a) Index map of Jutulstraumen Glacier. b) Surface Type of Jutulstraumen Glacier. c) Surface Veolcity of Jutulstraumen Glacier.*
@@ -63,8 +63,8 @@ Both products struggle in Jutulstraumen because:
 - Sub-10-km features affecting basal drag are not recovered
 
 <p float="left">
-  <img src="Figures/BedMachine.jpg" alt="Figure 1" width="50%" />
-  <img src="Figures/Bedmap3.jpg" alt="Figure 2" width="50%" />
+  <img src="Figures/BedMachine.jpg" alt="Figure 1" width="48%" />
+  <img src="Figures/Bedmap3.jpg" alt="Figure 2" width="48%" />
 </p>
 
 *Figure 2: a) BedMachine Topography. b) Bedmap3 Topography.*
