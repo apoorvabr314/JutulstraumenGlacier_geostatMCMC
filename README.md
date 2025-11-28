@@ -64,7 +64,7 @@ Both products struggle in Jutulstraumen because:
 
 <p float="left">
   <img src="Figures/BedMachine.jpg" alt="Figure 1" width="48%" />
-  <img src="Figures/Bedmap3.jpg" alt="Figure 2" width="48%" height="345.1px" />
+  <img src="Figures/Bedmap3.jpg" alt="Figure 2" width="48%" height="346px" />
 </p>
 
 *Figure 2: a) BedMachine Topography. b) Bedmap3 Topography.*
