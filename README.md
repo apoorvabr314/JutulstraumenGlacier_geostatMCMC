@@ -1,5 +1,4 @@
 # Geostatistical MCMC Reconstruction of Jutulstraumen Subglacial Bed Topography
-(final poster to be inserted)
 
 This repository contains my final project for GLY4930 — Geophysical Exploration of the Cryosphere, where I apply a Markov chain Monte Carlo (MCMC) geostatistical framework to reconstruct high-resolution bed topography beneath the Jutulstraumen Glacier, East Antarctica.
 
@@ -154,6 +153,12 @@ Run notebooks sequentially:
 
 Ensure paths to BedMachine, MEaSUREs velocity, SMB, and dh/dt datasets are correct.
 MCMC and SGS chains may require extended runtime depending on iteration count and resolution.
+
+## 🐧 Poster
+
+<p float="left">
+  <img src="Figures/Poster.png" alt="Figure 1" width="48%" />
+</p>
 
 ## 🐧 Citations 
 
