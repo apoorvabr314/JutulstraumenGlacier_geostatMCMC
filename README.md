@@ -24,7 +24,7 @@ Because the glacier funnels ice through a constrained basin, its modeled flow be
 
 <p float="left">
   <img src="Figures/IndexMap.jpg" alt="Figure 1" width="32%" />
-  <img src="Figures/SurfaceType.jpg" alt="Figure 2" width="32%" height="260px" />
+  <img src="Figures/SurfaceType.jpg" alt="Figure 2" width="32%" height="345px" />
   <img src="Figures/SurfaceVel.jpg" alt="Figure 3" width="32%" />
 </p>
 
@@ -64,7 +64,7 @@ Both products struggle in Jutulstraumen because:
 
 <p float="left">
   <img src="Figures/BedMachine.jpg" alt="Figure 1" width="48%" />
-  <img src="Figures/Bedmap3.jpg" alt="Figure 2" width="48%" height="348px" />
+  <img src="Figures/Bedmap3.jpg" alt="Figure 2" width="48%" height="460px"/>
 </p>
 
 *Figure 2: a) BedMachine Topography. b) Bedmap3 Topography.*
