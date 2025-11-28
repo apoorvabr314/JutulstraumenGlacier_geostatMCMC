@@ -22,7 +22,13 @@ Jutulstraumen is a major fast-flowing outlet glacier draining into the Fimbul Ic
 
 Because the glacier funnels ice through a constrained basin, its modeled flow behavior and grounding-line stability depend sensitively on bed geometry. Accurate bed reconstruction is thus essential for realistic ice-flow modeling and understanding regional dynamics.
 
-<figures to be inserted - index map, surface type, surface ice velocity>
+<p float="left">
+  <img src="Figures/IndexMap.png" alt="Figure 1" width="32%" />
+  <img src="Figures/SurfaceType.png" alt="Figure 2" width="32%" />
+  <img src="Figures/SurfaceVel.png" alt="Figure 3" width="32%" />
+</p>
+
+*Figure 1: a) Index map of Jutulstraumen Glacier. b) Surface Type of Jutulstraumen Glacier. c) Surface Veolcity of Jutulstraumen Glacier.*
 
 ## 🐧 Existing Bed Products: Limitations
 
@@ -56,7 +62,12 @@ Both products struggle in Jutulstraumen because:
 
 - Sub-10-km features affecting basal drag are not recovered
 
-<figures to be inserted - bedmap3 and bedmachine topographies>
+<p float="left">
+  <img src="Figures/BedMachine.png" alt="Figure 1" width="50%" />
+  <img src="Figures/Bedmap3.png" alt="Figure 2" width="50%" />
+</p>
+
+*Figure 2: a) BedMachine Topography. b) Bedmap3 Topography.*
 
 ## 🐧 Why Use MCMC + SGS?
 Antarctic bed topography contains variations across many spatial scales:
